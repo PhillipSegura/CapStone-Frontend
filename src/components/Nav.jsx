@@ -14,7 +14,7 @@ function Nav() {
         &nbsp; | &nbsp;
         <Link to="/SignIn">Sign In</Link>
       </div>
-      <div>Sign Out</div>
+      <div></div>
     </nav>
   );
 }

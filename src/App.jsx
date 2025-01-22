@@ -17,7 +17,7 @@ function App() {
       {user ? (
         <>
           <Nav />
-          <div>hi {user} </div>
+          <div>Welcome{user} </div>
           <h1> DanceCircle</h1>;
           <Routes>
             <Route path="/" element={<Home />} />
